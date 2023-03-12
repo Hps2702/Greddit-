@@ -6,13 +6,13 @@
 ### Front End
 
 ```
-cd backend/
+cd frontend/
 npm install
 npm start
 ```
 ### BackEnd
 ```
-cd frontend/
+cd backend/
 npm install
 npm start
 ```
@@ -31,4 +31,4 @@ Navigate to [http://localhost:3000/](http://localhost:3000/) in your browser.
  sudo docker-compose down
  ```
 
-Navigate to [http://localhost:3050/](http://localhost:3000/) in your browser.
+Navigate to [http://localhost:3050/](http://localhost:3050/) in your browser.
