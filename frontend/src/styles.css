@@ -1,0 +1,46 @@
+.home {
+  background-color:#EAE0DA;
+}
+.customNav{
+  background-color:#D6E4E5;
+  padding-left: 5px;
+  padding-right: 5px;
+
+}
+.cardstyle{
+  background-color: rgb(188, 189, 190);
+}
+.search-bar{
+  position: absolute;
+  left:15%;
+}
+.pointer-link {
+  cursor: pointer;
+}
+.detail-form{
+  /* margin-bottom: 25px; */
+  padding-left: 5%;
+}
+.profile-card{
+  position: relative;
+ /* right: 0px; */
+ left: 25%;
+ top:5%;
+ bottom: 5%;
+
+}
+
+.dropdown-menu {         
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
